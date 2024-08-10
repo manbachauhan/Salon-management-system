@@ -1,4 +1,4 @@
-![Salon Management System](https://github.com/virugama/Salon-management-system/assets/89926772/19c2e716-6f98-4626-ae70-b17a9796f694)
+![Preview 1](https://github.com/virugama/Salon-management-system/assets/89926772/3c40ef72-71e1-424c-87c8-444dbe5523f9)
 
 # Salon-management-system :scissors: :computer:
 
